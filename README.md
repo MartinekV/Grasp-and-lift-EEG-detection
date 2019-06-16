@@ -4,6 +4,6 @@ This project compares various machine-learning models in terms of viability for 
 
 Full documentation is attached as pdf file.
 
-Running code: KERNEL LINK
+Running code: https://www.kaggle.com/vlastimilm/ui-project
 
 Data download: https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data
